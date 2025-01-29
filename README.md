@@ -1,5 +1,6 @@
 # DevOps Challenge - Week 2 - Day 2: NCAA Game Highlights With Docker
 
+![infrastructure workflow](assets/Sport_highlight.png)
 
 
 ## Project Overview:
