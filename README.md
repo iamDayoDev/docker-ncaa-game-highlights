@@ -19,6 +19,8 @@ In this project, I intergrated docker with AWS mediaConvert to fetch NCAA game h
 2. AWS MediaConvert
 3. Amazon S3 
 4. IAM
+5. Docker
+6. Python 
 
 ## STEPS TO FOLLOW:
 
